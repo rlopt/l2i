@@ -8,5 +8,5 @@ For more details, please see our paper [A Learning-based Iterative Method for So
 # Quick Start
 For training CVRP-20 with 2000 problem instances:
 ```python
-python ml_opt.py --num_training_points 20 --num_test_points 20 --num_test_points 2000
+python ml_opt.py --num_training_points 20 --num_test_points 20 --num_episode 2000
 ```
